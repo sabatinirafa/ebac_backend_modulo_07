@@ -1,9 +1,9 @@
 package hospital;
 
 /**
- * @author rafaelsabatinileite
- * 
  * A isntância dessa classe deve ser gerada com a palavra "medico" mais um número de 4 dígitos igual ao número total de médicos cadastrados mais um.
+ * 
+ * @author rafaelsabatinileite
  */
 
 public class Medico {

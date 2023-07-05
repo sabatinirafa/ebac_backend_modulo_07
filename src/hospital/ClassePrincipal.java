@@ -1,6 +1,8 @@
 package hospital;
 
 /**
+ * Sistema hospitlar para controle de pacientes, médicos, exames e consultas
+ * 
  * @author rafaelsabatinileite
  * 
  * @version 1.0

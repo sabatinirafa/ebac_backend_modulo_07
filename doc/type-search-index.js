@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"hospital","l":"ClassePrincipal"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"hospital","l":"ClassePrincipal"},{"p":"hospital","l":"Consulta"},{"p":"hospital","l":"Exame"},{"p":"hospital","l":"Medico"},{"p":"hospital","l":"Paciente"}];updateSearchResults();

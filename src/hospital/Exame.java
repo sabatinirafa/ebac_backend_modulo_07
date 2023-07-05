@@ -1,9 +1,9 @@
 package hospital;
 
 /**
- * @author rafaelsabatinileite
- * 
  * A isntância dessa classe deve ser gerada com a palavra "exame", mais o  pacienteId do paciente que passará no exame, mais "_e" e um número igual ao número total exames desse paciente mais um.
+ * 
+ * @author rafaelsabatinileite
  */
 
 public class Exame {

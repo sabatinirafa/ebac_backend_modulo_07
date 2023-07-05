@@ -1,9 +1,9 @@
 package hospital;
 
 /**
- * @author rafaelsabatinileite
- * 
  * A isntância dessa classe deve ser gerada com a palavra "consulta", mais o  pacienteId do paciente que passará na consulta, mais "_c" e um número igual ao número total consultas desse paciente mais um.
+ * 
+ * @author rafaelsabatinileite
  */
 
 public class Consulta {

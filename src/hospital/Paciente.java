@@ -1,9 +1,9 @@
 package hospital;
 
 /**
- * @author rafaelsabatinileite
- * 
  * A isntância dessa classe deve ser gerada com a palavra "paciente" mais um número de 6 dígitos igual ao número total de pacientes cadastrados mais um.
+ * 
+ * @author rafaelsabatinileite
  * 
  */
 
